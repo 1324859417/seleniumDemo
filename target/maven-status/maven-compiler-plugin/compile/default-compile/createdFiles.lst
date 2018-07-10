@@ -1,0 +1,4 @@
+selenium\util\BrowserType.class
+selenium\util\GetBrowser.class
+selenium\util\InterfaceBrowser.class
+selenium\util\GetBrowser$1.class
