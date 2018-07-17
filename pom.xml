@@ -29,7 +29,7 @@
 			<artifactId>mail</artifactId>
 			<version>${log4j.mail.version}</version>
 		</dependency>
-		<!-- selenium自动化666 -->
+		<!-- selenium自动化 -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
