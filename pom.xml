@@ -66,6 +66,17 @@
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
+			<plugin>
+				<groupId>org.apache.tomcat.maven</groupId>
+				<artifactId>tomcat7-maven-plugin</artifactId>
+				<configuration>
+					<url>http://localhost:8089/selenium</url>
+					<path>/</path>
+					<server>tomcat</server>
+					<username>tomcat</username>
+					<password>123456</password>
+				</configuration>
+			</plugin>
 		</plugins>
 	</build>
 </project>
